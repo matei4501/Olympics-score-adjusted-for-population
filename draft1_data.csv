@@ -1,0 +1,43 @@
+country,Score,Score per Capita (adjusted),Lm_Score,Orginal Rank,Per Capita Rank,LM Rank,Region,Country
+United States,45.0,6.14,100.0,1,25,1,NORTHERN AMERICA,United States
+Canada,12.0,14.43,92.47,9,17,2,NORTHERN AMERICA,Canada
+Australia,27.0,47.78,91.05,5,3,3,OCEANIA,Australia
+Sweden,4.0,17.59,82.58,16,13,4,EUROPE,Sweden
+Italy,21.0,16.65,82.38,8,15,5,EUROPE,Italy
+Switzerland,1.0,5.26,81.54,38,26,6,EUROPE,Switzerland
+France,37.0,26.7,80.19,2,9,7,EUROPE,France
+United Kingdom,25.0,17.23,76.83,6,14,8,EUROPE,United Kingdom
+Ireland,4.0,36.99,75.66,16,5,9,EUROPE,Ireland
+Belgium,4.0,15.97,75.23,16,16,10,EUROPE,Belgium
+Germany,6.0,3.31,75.2,11,33,11,EUROPE,Germany
+Japan,29.0,10.95,73.93,4,21,12,ASIA,Japan
+Slovenia,3.0,66.24,73.12,22,2,13,EUROPE,Slovenia
+New Zealand,3.0,26.82,72.15,22,8,14,OCEANIA,New Zealand
+Spain,1.0,0.92,70.85,38,40,15,EUROPE,Spain
+Croatia,1.0,11.62,61.65,38,20,16,EUROPE,Croatia
+Mexico,3.0,1.03,60.86,22,37,17,SOUTH AMERICA,Mexico
+South Africa,5.0,3.81,59.41,13,30,18,AFRICA,South Africa
+Hungary,1.0,4.55,58.98,38,28,19,EUROPE,Hungary
+Fiji,2.0,100.0,56.49,30,1,20,OCEANIA,Fiji
+Poland,3.0,3.36,54.88,22,32,21,EUROPE,Poland
+Mongolia,2.0,27.12,48.04,30,7,22,ASIA,Mongolia
+Brazil,5.0,1.02,47.53,13,38,23,SOUTH AMERICA,Brazil
+Serbia,3.0,19.59,47.23,22,12,24,EUROPE,Serbia
+Kazakhstan,5.0,11.88,46.95,13,19,25,EUROPE,Kazakhstan
+Romania,3.0,7.0,45.8,22,24,26,EUROPE,Romania
+Moldova,2.0,27.2,44.79,30,6,27,EUROPE,Moldova
+Turkey,3.0,1.57,43.26,22,35,28,ASIA,Turkey
+Azerbaijan,3.0,13.43,43.01,22,18,29,EUROPE,Azerbaijan
+Georgia,2.0,25.07,42.52,30,10,30,EUROPE,Georgia
+Uzbekistan,3.0,3.93,41.71,22,29,31,ASIA,Uzbekistan
+Tajikistan,1.0,4.55,40.56,38,27,32,ASIA,Tajikistan
+Tunisia,2.0,7.46,38.76,30,23,33,AFRICA,Tunisia
+China,32.0,0.99,38.2,3,39,34,ASIA,China
+Ukraine,1.0,1.21,38.15,38,36,35,EUROPE,Ukraine
+Guatemala,1.0,2.52,37.28,38,34,36,SOUTH AMERICA,Guatemala
+Egypt,1.0,0.35,33.9,38,41,37,AFRICA,Egypt
+Slovakia,1.0,8.02,30.21,38,22,38,EUROPE,Slovakia
+India,2.0,0.0,20.6,30,42,39,ASIA,India
+North Korea,2.0,3.52,0.0,30,31,40,ASIA,
+South Korea,24.0,21.65,0.0,7,11,40,ASIA,
+Hong Kong,7.0,43.71,0.0,10,4,42,ASIA,Hong Kong
